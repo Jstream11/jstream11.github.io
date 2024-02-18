@@ -16,16 +16,16 @@ minimal_mistakes_skin    : "air" # "default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dave's Technical Journal"
+title                    : "Jordan's Bioinformatics and Data Science Portfolio"
 title_separator          : "-"
-name                     : Dave Carroll
-description              : Articles on PowerShell, general IT, and retro-computing
-url                      : https://thedavecarroll.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : Jordan Stream
+description              : I am a young scientist and developing Bioinformatician, driven by a passion for unraveling the complexities of biological systems through computational analysis and data-driven insights.
+url                      : https://jstream11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : / # the subpath of your site, e.g. "/blog"
 repository               : thedavecarroll/thedavecarroll.com # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 words_per_minute         : 200
-logo                     : /assets/images/thedavecarroll-avatar-transparent.png
+logo                     : 
 
 comments:
   provider: "giscus"
@@ -58,7 +58,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : thedavecarroll
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -67,9 +67,9 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : LinkedIn # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links                  : https://www.linkedin.com/in/jordanstream011/ # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -79,7 +79,7 @@ analytics:
     anonymize_ip         : false
 
 # Site Author
-author: Dave Carroll
+author: Jordan Stream
   # name             : Dave Carroll
   # avatar           : /assets/images/thedavecarroll-avatar.jpg
   # bio              : I'm a PowerShell developer and enthusiast with interests in DevOps, infrastructure, and retrocomputing.
@@ -112,13 +112,10 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/thedavecarroll
-    - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
-      url: "https://fosstodon.org/@thedavecarroll"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/thedavecarroll
+      url: https://github.com/jstream11
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin" #need to find icon
+      url: https://www.linkedin.com/in/jordanstream011/
 
 # Reading Files
 include:

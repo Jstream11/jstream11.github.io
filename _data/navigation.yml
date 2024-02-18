@@ -5,16 +5,16 @@ main:
     description: About Me
   - title: Articles
     url: /posts/
-    description: "Articles"
+    description: "Projects"
   - title: "Tags"
     url: /tags/
     description: "Tags"
-  - title: "My Modules"
-    url: /modules/
-    description: "My Modules"
-  - title: "Resources"
-    url: /resources/
-    description: "Resources"
+#  - title: "My Modules"
+#   url: /modules/
+#    description: "My Modules"
+#  - title: "Resources"
+#    url: /resources/
+#    description: "Resources"
   - title: "Links"
     url: /links/
     description: "Links"

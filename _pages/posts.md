@@ -1,5 +1,5 @@
 ---
-title: "Articles"
+title: "Projects"
 permalink: /posts/
 layout: archive
 search: false

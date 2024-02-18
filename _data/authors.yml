@@ -1,18 +1,15 @@
 Dave Carroll:
-  name        : "Dave Carroll"
-  bio         : "I'm a PowerShell developer and enthusiast with interests in DevOps, infrastructure, and retrocomputing."
-  avatar      : "/assets/images/thedavecarroll-avatar.jpg"
-  location    : Nashville, TN
+  name        : "Jordan Stream"
+  bio         : "I am a young scientist and developing Bioinformatician, driven by a passion for unraveling the complexities of biological systems through computational analysis and data-driven insights."
+  avatar      : 
+  location    : Boston, MA
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/thedavecarroll
-    - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
-      url: "https://fosstodon.org/@thedavecarroll"
+      url: https://github.com/jstream11/
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: https://www.linkedin.com/in/thedavecarroll/
+      url: https://www.linkedin.com/in/jordanstream011/
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://youtube.com/@davecarroll"
