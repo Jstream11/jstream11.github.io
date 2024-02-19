@@ -20,7 +20,7 @@ category:
 <img src="/assets/images/RShinyAppProj/RShiny_App_SS.png" alt="RShiny App">
 </figure>
 
-You can follow the application in action in the video below. The data being used in the video was taken from this published study:
+You can follow the application in action in the [video](https://youtu.be/d3RQ6D4s9jw?si=zsfWkHb8Ksl_UlxS) below. The data being used in the video was taken from this published study:
 [mRNA-Seq Expression profiling of human post-mortem BA9 brain tissue for Huntington’s Disease and neurologically normal individuals](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE64810)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d3RQ6D4s9jw?si=HSf0tSO6gnBx7AQS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
