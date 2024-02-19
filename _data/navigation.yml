@@ -3,9 +3,12 @@ main:
   - title: "About Me"
     url: /about/
     description: About Me
-  - title: Articles
+  - title: Projects
     url: /posts/
     description: "Projects"
+  - title: CV
+    url: /cv/
+    description: "CV"
   - title: "Tags"
     url: /tags/
     description: "Tags"
@@ -15,6 +18,6 @@ main:
 #  - title: "Resources"
 #    url: /resources/
 #    description: "Resources"
-  - title: "Links"
-    url: /links/
-    description: "Links"
+#  - title: "Links"
+#    url: /links/
+#    description: "Links"

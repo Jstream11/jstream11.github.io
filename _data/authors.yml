@@ -1,18 +1,18 @@
-Dave Carroll:
+Jordan Stream:
   name        : "Jordan Stream"
-  bio         : "I am a young scientist and developing Bioinformatician, driven by a passion for unraveling the complexities of biological systems through computational analysis and data-driven insights."
-  avatar      : 
+  bio         : "NYU Alumn --- BU Master's Student in Bioinformatics"
+  avatar      : /assets/images/profile_pic2.png
   location    : Boston, MA
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: https://www.linkedin.com/in/jordanstream011/
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/jstream11/
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: https://www.linkedin.com/in/jordanstream011/
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com/@davecarroll"
-    - label: "Stack Overflow"
-      icon: "fab fa-fw fa-stack-overflow"
-      url: "https://stackoverflow.com/users/10085389/thedavecarroll"
+    - label: "Email"
+      icon: "fas fa-envelope" #need an icon
+      url: "mailto:jstream@bu.edu"
+#    - label: "Stack Overflow"
+#      icon: "fab fa-fw fa-stack-overflow"
+#      url: "https://stackoverflow.com/users/10085389/thedavecarroll"
