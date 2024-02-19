@@ -20,7 +20,7 @@ category:
 <img src="/assets/images/RShinyAppProj/RShiny_App_SS.png" alt="RShiny App">
 </figure>
 
-The data used to develop this application:
+You can follow the application in action in the video below. The data being used in the video was taken from this published study:
 [mRNA-Seq Expression profiling of human post-mortem BA9 brain tissue for Huntington’s Disease and neurologically normal individuals](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE64810)
 
 <iframe width="560" height="315" src="https://youtu.be/d3RQ6D4s9jw" frameborder="0" allowfullscreen></iframe>
