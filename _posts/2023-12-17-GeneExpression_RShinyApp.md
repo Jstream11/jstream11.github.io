@@ -23,8 +23,8 @@ category:
 The data used to develop this application:
 [mRNA-Seq Expression profiling of human post-mortem BA9 brain tissue for Huntington’s Disease and neurologically normal individuals](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE64810)
 
-{% assign provider = "google-drive" %}
-{% assign id = "1RpG8pgUEJ_XH2xttgn4XnIZRW5lD-9" %}
+{% assign provider = "youtube" %}
+{% assign id = "d3RQ6D4s9jw" %}
 {% assign danmaku = 0 %}
 
 {% include video %}
