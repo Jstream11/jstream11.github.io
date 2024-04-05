@@ -13,6 +13,8 @@ classes: wide
  
 Master of Science in Bioinformatics \| Sep 2023 - Present
 
+- Bioinformatics Program Student Ambassador \| Feb 2024 - Present
+
 **New York University**
 
 Bachelor of Arts in Biochemistry \| Sep 2017 - May 2021
@@ -26,7 +28,7 @@ Applied Bioinformatics Certificate \| June 2022 - Aug 2023
 ### Skills ###
 - **Programming**: Python, R, SQL, Unix/Linux platforms, Git version control
 - **Data Analysis and Visualization**: Pandas, NumPy, SciPy, Matplotlib, Biopython, Tensorflow, Bioconductor, Snakemake
-- **Bioinformatics**: DNA Sequencing, Differential Expression Analysis, Pymol, Gene Set Enrichment Analysis
+- **Bioinformatics**: RNA-seq, scRNA-seq, ChIP-seq, Pymol, Gene Set Enrichment Analysis, DESeq2, EdgeR, limma
 
 ### Research Experience ###
 
@@ -54,7 +56,7 @@ Research Technician I \| New York, NY \| Nov 2021 - Oct 2022
 
 2023 Annual Meeting, Poster Presentation \| New Orleans, LA \| Mar 2023
 
-Stream J, Panellini T, Celement D, Ouseph M. *Accelerated macroautophagy in prefibrotic primary myelofibrosis megakaryocytes.* Presented at: USCAP 2023 Annual Meeting; 2023 Mar 11-16; New Orleans, LA.
+Stream J, Panellini T, Clement D, Ouseph M. *Accelerated macroautophagy in prefibrotic primary myelofibrosis megakaryocytes*. USCAP 2023 Abstracts Hematopathology, 1196, Laboratory Investigation, Volume 103, Issue 3, Supplement, 2023, 100106, ISSN 0023-6837, https://doi.org/10.1016/j.labinv.2023.100106.
  
 - Investigated the role of autophagy in megakaryopoiesis, thrombopoiesis, and platelet function, with the aim of elucidating its contribution to the development of myeloproliferative neoplasms with megakaryocytic proliferation.
 - Utilized multiplex immunofluorescence to assess the presence of autophagy-related proteins, p62 and LC3B, in normal bone marrows and bone marrows from prefibrotic primary myelofibrosis patients.
