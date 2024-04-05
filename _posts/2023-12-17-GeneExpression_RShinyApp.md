@@ -15,6 +15,7 @@ category:
   - academic
 ---
 <i class="fab fa-github"></i>[Project Repository](https://github.com/Jstream11/BioinformaticsAnalysisRShinyApplication.git)
+[app](https://jstream11.shinyapps.io/finalproj/)
 
 <figure style="text-align: center; width: 500px; margin: 0 auto;">
 <img src="/assets/images/RShinyAppProj/RShiny_App_SS.png" alt="RShiny App">
@@ -106,6 +107,6 @@ This feature provides a comprehensive analysis, allowing users to visualize and 
 
 **Shiny Functionalities**:
 
-1. **Top Pathways Tab**: Provides a ****barplot of fgsea Normalized Enrichment Scores (NES) for the top pathways filtered by padj (adjusted p-value) threshold by the user. Negatively enriched pathways are presented in red while positively enriched pathways are in blue.
+1. **Top Pathways Tab**: Provides a barplot of fgsea Normalized Enrichment Scores (NES) for the top pathways filtered by padj (adjusted p-value) threshold by the user. Negatively enriched pathways are presented in red while positively enriched pathways are in blue.
 2. **Data Table Tab:** Provides a sortable data table displaying the GSEA results, filtered by padj (adjusted p-value) threshold by the user. The user is also able to select positive, negative, or all NES pathways.  A download button to export the current filtered and displayed table results is available.
 3. **Plots Tab:** Scatter plot depicting NES on the x-axis and -log10 adjusted p-value on the y-axis, filtered by padj (adjusted p-value) threshold by the user. Gene sets below the threshold are displayed in grey color.
