@@ -15,7 +15,7 @@ tags:
 category:
   - Research
 ---
-<figure style="text-align: center; width: 500px; margin: 0 auto;">
+<figure style="text-align: center; width: 800px; margin: 0 auto;">
   <img src="/assets/images/USCAP_Poster.png" alt="USCAP Poster">
   <figcaption style="font-style: italic;"> United States and Canadian Academy of Pathology 2023 Annual Meeting - New Orleans, LA</figcaption>
 </figure>
