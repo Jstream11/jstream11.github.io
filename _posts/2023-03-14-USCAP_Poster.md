@@ -19,7 +19,7 @@ category:
   <img src="/assets/images/USCAP_Poster.png" alt="USCAP Poster">
   <figcaption style="font-style: italic;"> United States and Canadian Academy of Pathology 2023 Annual Meeting - New Orleans, LA</figcaption>
 </figure>
-**Stream J, Panellini T, Celement D, Ouseph M. Accelerated macroautophagy in prefibrotic primary myelofibrosis megakaryocytes. Presented at: USCAP 2023 Annual Meeting; 2023 Mar 11-16; New Orleans, LA.**
+**Stream J, Panellini T, Clement D, Ouseph M. *Accelerated macroautophagy in prefibrotic primary myelofibrosis megakaryocytes*. USCAP 2023 Abstracts Hematopathology, 1196, Laboratory Investigation, Volume 103, Issue 3, Supplement, 2023, 100106, ISSN 0023-6837, https://doi.org/10.1016/j.labinv.2023.100106.**
 - Presented poster at 2023 USCAP conference investigating the megakaryocytic microenvironment within prefibrotic primary myelofibrosis patient samples.  
 - Investigated the role of autophagy in megakaryopoiesis, thrombopoiesis, and platelet function, with the aim of elucidating its contribution to the development of myeloproliferative neoplasms with megakaryocytic proliferation.
 - Utilized multiplex immunofluorescence to assess the presence of autophagy-related proteins, p62 and LC3B, in normal bone marrows and bone marrows from prefibrotic primary myelofibrosis patients. 
