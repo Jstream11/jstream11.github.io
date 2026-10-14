@@ -13,7 +13,7 @@ tags:
   - Digital Pathology
   - Hematopathology
 category:
-  - Research
+  - research
 ---
 <figure style="text-align: center; width: 800px; margin: 0 auto;">
   <img src="/assets/images/USCAP_Poster.png" alt="USCAP Poster">

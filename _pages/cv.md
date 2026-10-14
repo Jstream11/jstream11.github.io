@@ -11,9 +11,7 @@ classes: wide
 
 **Boston University**
  
-Master of Science in Bioinformatics \| Sep 2023 - Present
-
-- Bioinformatics Program Student Ambassador \| Feb 2024 - Present
+Master of Science in Bioinformatics \| Sep 2023 - Sep 2024
 
 **New York University**
 
@@ -21,16 +19,30 @@ Bachelor of Arts in Biochemistry \| Sep 2017 - May 2021
 
 - NYU NCAA Women's Varsity Softball \| Sep 2017 - Jan 2019
 
-**University of California San Diego Extended Studies**
-
-Applied Bioinformatics Certificate \| June 2022 - Aug 2023
-
 ### Skills ###
-- **Programming**: Python, R, SQL, Unix/Linux platforms, Git version control
-- **Data Analysis and Visualization**: Pandas, NumPy, SciPy, Matplotlib, Biopython, Tensorflow, Bioconductor, Snakemake
-- **Bioinformatics**: RNA-seq, scRNA-seq, ChIP-seq, Pymol, Gene Set Enrichment Analysis, DESeq2, EdgeR, limma
+- **Programming**: Snakemake, Nextflow, Python, R, RShiny
+- **Data Analysis and Visualization**: Pandas, NumPy, SciPy, Matplotlib, Biopython, Tensorflow, Bioconductor
+- **Computing & Infrastructure**: HPC (SLURM), Linux, Docker, CI/CD (Jenkins), Container orchestration and deployment
+(Portainer), Conda, Unix/Linux platforms, Git version control
+- **Bioinformatics**: RNA-seq, miRNA-seq, scRNA-seq, ChIP-seq, Meffil, Minfi, Pymol, Gene Set Enrichment Analysis, DESeq2, EdgeR, limma
 
 ### Research Experience ###
+**Brigham and Women’s Hospital | Channing Division of Network Medicine Computer Core**
+
+Bioinformatician \| Boston, MA \| June 2024 - Present
+
+- Built, maintained, and ran Snakemake and Nextflow pipelines for multi-omic data validation, including transcriptomics and
+epigenetics, enabling reproducible, scalable analysis across projects; upgraded inhouse DNA methylation pipeline (utilizing
+minfi and meffil R packages for methylation data) to support the Illumina EPIC v2 array and developing methods to
+harmonize data across array versions.
+- Managed sample quality control for large-cohort studies(LTRC, VDAART, COPDGene), including multi-omic concordance
+analysis to verify sample identity and data integrity.
+- Led quality control of over 10,000 samples of DNA methylation data for a RECOVER Long COVID study, collaborating
+with systems biology experts to deliver analysis-ready datasets.
+- Developed and deployed RShiny dashboards for sample tracking across more than 40,000 samples in multiple omics, giving
+teams real-time visibility into project status.
+- Contributed to code review discussions, helping novice investigators navigate computational challenges.
+
 
 **Weill Cornell Medicine --- Multiparametric In Situ Imaging Laboratory**
 

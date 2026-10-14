@@ -1,6 +1,6 @@
 Jordan Stream:
   name        : "Jordan Stream"
-  bio         : "NYU Alumn --- BU Master's Student in Bioinformatics"
+  bio         : "BU MS Bioinformatics | NYU BA Biochemistry"
   avatar      : /assets/images/profile_pic2.png
   location    : Boston, MA
   links:
@@ -12,7 +12,7 @@ Jordan Stream:
       url: https://github.com/jstream11/
     - label: "Email"
       icon: "fas fa-envelope" #need an icon
-      url: "mailto:jstream@bu.edu"
+      url: "mailto:jordanstream2@gmail.com"
 #    - label: "Stack Overflow"
 #      icon: "fab fa-fw fa-stack-overflow"
 #      url: "https://stackoverflow.com/users/10085389/thedavecarroll"
