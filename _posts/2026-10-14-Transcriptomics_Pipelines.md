@@ -20,7 +20,7 @@ category:
   - professional
 ---
 
-## Purpose
+### Purpose
 
 This git repository contains two versions of a bulk rnaseq pipeline, one in Snakemake and one in Nextflow. The purpose of this code base is to demonstrate proficiency in scalable workflow management. The workflow is designed to supply customizable adapter trimming and alignment/quanitification options. The development is on going.
 
@@ -29,22 +29,23 @@ workflow is in progress. The test reads are for checking the workflow—not for
 drawing biological conclusions.
 
 ### Planned workflow
-
-\nPaired FASTQ files
-\n        ↓
-\nInput and samplesheet validation
-\n        ↓
-\nRead QC (FastQC)
-\n        ↓
-\nAdapter trimming (Fastp/Cutadapt)
-\n        ↓
-\nPost-trimming QC (FastQC and MultiQC)
-\n        ↓
-\nQuantification/alignment (Star/Salmon)
-\n        ↓
-\nAlignment QC (MultiQC)
-\n        ↓
-\nDifferential Expression
+```text
+Paired FASTQ files
+        ↓
+Input and samplesheet validation
+        ↓
+Read QC (FastQC)
+        ↓
+Adapter trimming (Fastp/Cutadapt)
+        ↓
+Post-trimming QC (FastQC and MultiQC)
+        ↓
+Quantification/alignment (Star/Salmon)
+        ↓
+Alignment QC (MultiQC)
+        ↓
+Differential Expression
+```
 
 [Project README](https://github.com/Jstream11/Transcriptomics_Pipelines)
 
