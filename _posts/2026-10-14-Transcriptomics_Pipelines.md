@@ -19,6 +19,7 @@ tags:
 category:
   - professional
 ---
+<i class="fab fa-github"></i>[Repository](https://github.com/Jstream11/Transcriptomics_Pipelines.git)
 
 ### Purpose
 
@@ -46,8 +47,6 @@ Alignment QC (MultiQC)
         ↓
 Differential Expression
 ```
-
-[Project README](https://github.com/Jstream11/Transcriptomics_Pipelines)
 
 [Snakemake workflow](https://github.com/Jstream11/Transcriptomics_Pipelines/tree/main/workflows/snakemake)
 
