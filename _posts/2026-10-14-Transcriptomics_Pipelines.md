@@ -19,4 +19,17 @@ tags:
 category:
   - professional
 ---
-The Snakemake and Nextflow workflows are available in the [Transcriptomics Pipelines GitHub repository](https://github.com/Jstream11/Transcriptomics_Pipelines).
+<div class="repo-card">
+  <h3>
+    <a href="https://github.com/Jstream11/Transcriptomics_Pipelines">
+      Jstream11/Transcriptomics_Pipelines
+    </a>
+  </h3>
+  <p>
+    A bulk RNA-seq workflow project implementing similar processing steps
+    with Snakemake and Nextflow.
+  </p>
+  <a href="https://github.com/Jstream11/Transcriptomics_Pipelines">
+    View the repository on GitHub →
+  </a>
+</div>
