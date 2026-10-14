@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "On Going: Transcriptomic Pipeline - Snakemake and Nextflow Pipelines"
-excerpt: "This git repository contains two versions of a bulk rnaseq pipeline, one in Snakemake and one in Nextflow. The purpose of this code base is to demonstrate proficiency in scalable workflow management. The development is on going.s"
+excerpt: "I’m developing a reproducible bulk RNA-seq workflow using a small public test dataset. The project is to demonstrate scalable workflow automation with Snakemake and Nextflow."
 
 classes: wide
 date: 2026-10-14
@@ -19,17 +19,35 @@ tags:
 category:
   - professional
 ---
-<div class="repo-card">
-  <h3>
-    <a href="https://github.com/Jstream11/Transcriptomics_Pipelines">
-      Jstream11/Transcriptomics_Pipelines
-    </a>
-  </h3>
-  <p>
-    A bulk RNA-seq workflow project implementing similar processing steps
-    with Snakemake and Nextflow.
-  </p>
-  <a href="https://github.com/Jstream11/Transcriptomics_Pipelines">
-    View the repository on GitHub →
-  </a>
-</div>
+
+## Transcriptomics workflow project
+
+This git repository contains two versions of a bulk rnaseq pipeline, one in Snakemake and one in Nextflow. The purpose of this code base is to demonstrate proficiency in scalable workflow management. The workflow is designed to supply customizable adapter trimming and alignment/quanitification options. The development is on going.
+
+**Current status:** The Snakemake workflow is in progress; the Nextflow
+workflow is in progress. The test reads are for checking the workflow—not for
+drawing biological conclusions.
+
+### Planned workflow
+
+Paired FASTQ files
+        ↓
+Input and samplesheet validation
+        ↓
+Read QC (FastQC)
+        ↓
+Adapter trimming (Fastp/Cutadapt)
+        ↓
+Post-trimming QC (FastQC and MultiQC)
+        ↓
+Quantification/alignment (Star/Salmon)
+        ↓
+Alignment QC (MultiQC)
+        ↓
+Differential Expression
+
+[Project README](https://github.com/Jstream11/Transcriptomics_Pipelines)
+
+[Snakemake workflow](https://github.com/Jstream11/Transcriptomics_Pipelines/tree/main/workflows/snakemake)
+
+[Nextflow workflow](https://github.com/Jstream11/Transcriptomics_Pipelines/tree/main/workflows/nextflow)
